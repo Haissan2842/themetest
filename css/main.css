@@ -1,0 +1,62 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  background-color: rgb(233, 200, 150)  ;
+  color: white;
+}
+
+h1 {
+  font-size: 3em;
+}
+
+h1, h2 {
+  margin-bottom: 10px;
+}
+h2 {
+  font-size: 2em;
+}
+h3 {
+  margin-top: 15px;
+  margin-bottom: 5px;
+  font-size: 1.5em;
+}
+
+ul {
+  margin: 0;
+  padding-left: 20px;
+}
+ul li {
+  margin-bottom: 5px;
+}
+
+header {
+  height: 7em;
+}
+
+.photo {
+  height: 30em;
+  border : white solid 0.5em;
+}
+
+.section {
+  display: flex;
+}
+
+.photodeprofil {
+  margin-left: 8%;
+}
+
+.titre {
+margin-left: 30em;
+margin-top: 5em;
+}
+
+.infos {
+  margin-left: -23em;
+  margin-top: 20em;
+}
+
+.lereste {
+  margin-top: 35em;
+  margin-left: -59em;
+}
